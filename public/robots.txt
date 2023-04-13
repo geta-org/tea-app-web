@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://tea-app.geta.omnicesupa.com/sitemap-index.xml

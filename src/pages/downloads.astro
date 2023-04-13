@@ -1,0 +1,33 @@
+---
+import Layout from "@layouts/Layout.astro";
+import Container from "@components/container.astro";
+import Sectionhead from "@components/sectionhead.astro";
+import CardDownload from "@components/carddownload.astro";
+
+const available = [
+  {
+    version: "Versão de Validação",
+    name: "Android/iOS",
+    ios: true,
+    button: {
+      text: "Ver tutorial",
+      link: "/blog/como-usar-a-versao-validacao-do-tea-app",
+    },
+  }
+];
+---
+
+<Layout title="Downloads">
+  <Container>
+    <Sectionhead>
+      <Fragment slot="title">Downloads</Fragment>
+      <Fragment slot="desc"
+        >Baixe o Tea App para o seu dispositivo.</Fragment
+      >
+    </Sectionhead>
+
+    <div class="grid md:grid-cols-3 gap-10 mx-auto max-w-screen-lg mt-12">
+      {available.map((item) => <CardDownload available={item} />)}
+    </div>
+  </Container>
+</Layout>
