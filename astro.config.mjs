@@ -3,7 +3,8 @@ import tailwind from "@astrojs/tailwind";
 import image from "@astrojs/image";
 import mdx from "@astrojs/mdx";
 import sitemap from "@astrojs/sitemap";
-import vercelStatic from "@astrojs/vercel/static";
+import vercel from '@astrojs/vercel/static';
+
 // https://astro.build/config
 export default defineConfig({
   site: "https://tea-app.geta.omnicesupa.com",
@@ -16,5 +17,5 @@ export default defineConfig({
     sitemap(),
   ],
   output: "server",
-  adapter: vercelStatic(),
+  adapter: vercel(),
 });
