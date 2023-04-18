@@ -29,5 +29,5 @@ Para começar a usar o Tea App, basta acessar os links abaixo, que irão direcio
 
 ## Teste e mande para gente o que achou
 - Nesse momento é super importante receber feedback. Você pode acessar os links abaixo para mandar uma mensagem para gente e preencher um formulário.
-  - [Mensagem](https://tea-app.geta.omnicesupa.com)
-  - [Formulário de feedback](https://forms.teaapp.com)
+  - [Mensagem](https://tea-app.geta.omnicesupa.com/contact)
+  - [Formulário de feedback](https://forms.gle/CvF46UHHLwNdtMzW6)
