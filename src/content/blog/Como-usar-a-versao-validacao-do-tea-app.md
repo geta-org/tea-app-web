@@ -24,8 +24,8 @@ Segue o link para fazer o download nas lojas de aplicativos:
 
 Para começar a usar o Tea App, basta acessar os links abaixo, que irão direcioná-lo para o Expo Go, onde a versão de validação do Tea App será executada:
 
-- [iOS](exp://u.expo.dev/update/e513168f-084f-4b0e-902c-47eac437553e)
-- [Android](exp://u.expo.dev/update/22895e35-aa4d-4aee-8bd1-0c68a7876e1a)
+- [iOS](exp://u.expo.dev/update/9d5fb692-56ea-4dc0-ab70-6ca997a77781)
+- [Android](exp://u.expo.dev/update/56a6cdb2-6007-4d94-a69c-ffa2d4de2f2e)
 
 ## Teste e mande para gente o que achou
 - Nesse momento é super importante receber feedback. Você pode acessar os links abaixo para mandar uma mensagem para gente e preencher um formulário.
