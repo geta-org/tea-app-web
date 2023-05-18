@@ -11,6 +11,8 @@ category: "Tutoriais"
 author: "Ryan Oliveira"
 tags: [Tea App, Beta]
 ---
+import { YouTube } from 'astro-embed';
+
 
 ## Primeiros passos
 
@@ -29,9 +31,8 @@ Para começar a usar o Tea App, basta acessar os links abaixo, que irão direcio
 
 ## Tutorial de como utilizar o app
 
-<iframe width="420" height="315"
-src="https://youtu.be/5giPG5RbCks">
-</iframe>
+<YouTube id="https://youtu.be/NkShQ1wwiCg" />
+
 
 ## Teste e mande para gente o que achou
 - Nesse momento é super importante receber feedback. Você pode acessar os links abaixo para mandar uma mensagem para gente e preencher um formulário.
