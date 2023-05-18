@@ -30,7 +30,7 @@ Para começar a usar o Tea App, basta acessar os links abaixo, que irão direcio
 ## Tutorial de como utilizar o app
 
 <iframe width="420" height="315"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
+src="https://youtu.be/5giPG5RbCks">
 </iframe>
 
 ## Teste e mande para gente o que achou
