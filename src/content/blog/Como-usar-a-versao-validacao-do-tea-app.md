@@ -27,7 +27,14 @@ Para começar a usar o Tea App, basta acessar os links abaixo, que irão direcio
 - [iOS](exp://u.expo.dev/update/fd0de729-7edc-4168-ba20-57ae6a217dca)
 - [Android](exp://u.expo.dev/update/f9345240-c63a-4921-962e-d3cb3d0c26f4)
 
+## Tutorial de como utilizar o app
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/tgbNymZ7vqY">
+</iframe>
+
 ## Teste e mande para gente o que achou
 - Nesse momento é super importante receber feedback. Você pode acessar os links abaixo para mandar uma mensagem para gente e preencher um formulário.
   - [Mensagem](https://tea-app.geta.omnicesupa.com/contact)
   - [Formulário de feedback](https://forms.gle/CvF46UHHLwNdtMzW6)
+
