@@ -3,6 +3,7 @@ import Layout from "@layouts/Layout.astro";
 import Container from "@components/container.astro";
 import Sectionhead from "@components/sectionhead.astro";
 import CardDownload from "@components/carddownload.astro";
+import { Tweet, Vimeo, YouTube } from 'astro-embed';
 
 const available = [
   {
@@ -29,5 +30,9 @@ const available = [
     <div class="grid md:grid-cols-3 gap-10 mx-auto max-w-screen-lg mt-12">
       {available.map((item) => <CardDownload available={item} />)}
     </div>
+    <div>
+    <YouTube id="https://youtu.be/NkShQ1wwiCg" />
+    </div>
   </Container>
+
 </Layout>
