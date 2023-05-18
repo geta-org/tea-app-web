@@ -10,8 +10,9 @@ publishDate: "2023-04-13 07:07"
 category: "Tutoriais"
 author: "Ryan Oliveira"
 tags: [Tea App, Beta]
+setup: |
+  import { Tweet, Vimeo, YouTube } from 'astro-embed';
 ---
-import { YouTube } from 'astro-embed';
 
 
 ## Primeiros passos
