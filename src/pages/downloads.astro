@@ -26,13 +26,18 @@ const available = [
         >Baixe o Tea App para o seu dispositivo.</Fragment
       >
     </Sectionhead>
-
+  <div class="">
     <div class="grid md:grid-cols-3 gap-10 mx-auto max-w-screen-lg mt-12">
       {available.map((item) => <CardDownload available={item} />)}
-    </div>
-    <div>
-    <YouTube id="https://youtu.be/5giPG5RbCks" />
-    </div>
-  </Container>
 
+      <div class="border-2 border-[#D8DEE9] border-opacity-50 py-5 px-6 rounded-md">
+        <Fragment slot="title"
+        >Tutorial para Utilizar o app.</Fragment
+      >
+        <YouTube id="https://youtu.be/5giPG5RbCks" />
+      </div>
+    </div>
+  </div>
+
+  </Container>
 </Layout>

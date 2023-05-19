@@ -13,8 +13,6 @@ tags: [Tea App, Beta]
 
 ---
 
-import { YouTube } from 'astro-embed';
-
 ## Primeiros passos
 
 Para fazer uso da versão de validação do Tea App, é necessário ter a versão mais recente do Expo Go instalada no seu dispositivo.
